@@ -1,3 +1,3 @@
 # liquid_ball
 
-view here: https://github.com/YOYZHANG?tab=repositories
+view here: https://yoyzhang.github.io/liquid_ball/
